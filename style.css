@@ -1,0 +1,86 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Archivo', sans-serif;
+}
+
+div.text {
+    background-color: #F1F1F1;
+    width: 80%;
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    margin: auto;
+}
+
+span {
+    color: #FFB000;
+    font-size: smaller;
+}
+
+.banner {
+    width: 100%;
+    background-image: url(./banner.png);
+    background-position: center;
+}
+
+.about, .more {
+    width: 100%;
+    padding: 20px  0px;
+    background-color: #F1F1F1;
+}
+
+.about span {
+    color: #00B56C;
+    font-size: larger;
+}
+
+.about H1, .special H1, .more H1, .enrolled h1 {
+    font-size: 24px;
+    padding-bottom: 5px;
+}
+
+.about H2, .special H2, .more H2 {
+    font-size: 18px;
+    padding-bottom: 5px;
+}
+
+.about p, .special p, .more p {
+    padding-bottom: 10px;
+}
+
+.enrolled h3 {
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-size: 16px;
+}
+
+.special {
+    background-color: #FFB000;
+}
+
+.footer {
+    background-color: #22242B;
+}
+
+.footer p  {
+    padding: 10px 0px 15px 0px;
+    color: #F1F1F1;
+}
+
+section {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.enrolled {
+    background-color: #8072e0;;
+    padding-bottom: 20px;
+}
+
+.enrolled a {
+    color: black;
+}
+
+.enrolled a:hover {
+    color: white;
+}
