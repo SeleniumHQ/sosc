@@ -58,6 +58,10 @@ span {
     background-color: #FFB000;
 }
 
+.soscevent {
+    background-color: #15f7a0;
+}
+
 .footer {
     background-color: #22242B;
 }
@@ -73,7 +77,7 @@ section {
 }
 
 .enrolled {
-    background-color: #8072e0;;
+    background-color: #7e5dd8;;
     padding-bottom: 20px;
 }
 
